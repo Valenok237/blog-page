@@ -1,0 +1,57 @@
+.post-img{
+    margin-bottom: 41px;
+    max-width: 965px;
+}
+
+.post-img__pic{
+    width: 100%;
+}
+
+.post__wrapper{
+    max-width: 765px;
+    margin: 0 auto;
+}
+
+.post-introduction{
+    margin-bottom: 37px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #E8E7E7;
+}
+
+.post-introduction__title{
+    font-size: 45px;
+    font-weight: 700;
+    color: #2D3748;
+    margin-bottom: 19px;
+}
+
+.post-introduction__autor{
+    font-size: 18px;
+    font-weight: 700;
+    color: #2D3748;
+    margin-right: 20px;
+}
+
+.post-introduction__date{
+    font-size: 18px;
+    color: #718096;
+}
+
+.post-desc__text{
+    font-size: 16px;
+    color: #718096;
+    margin-bottom: 15px;
+}
+
+.post-desc__title{
+    font-size: 30px;
+    color: #2D3748;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+.post-desc__title_h3{
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: 15px;
+}
